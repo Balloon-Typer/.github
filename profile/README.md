@@ -15,7 +15,7 @@ Java Swing Balloon Typing Game Project
 
 ##DUAL MODE
 - 동일한 WIFI 공유기의 IPv4를 사용하여 두개의 노트북으로 사용 가능
-###아이템
+### 아이템
 ##### 파란색 글씨 : BALLOON ITEM (내 필드 풍선 +2, -2, 상대 필드 풍선 +2, -2) RANDOM
 ##### 초록색 글씨 : TRICK ITEM (REVERSE, BLIND) RANDOM
 
